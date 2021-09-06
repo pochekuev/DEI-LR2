@@ -1,0 +1,7 @@
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\obj\Debug\[VaAP] Pochekuev LR1.csprojAssemblyReference.cache
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\obj\Debug\[VaAP] Pochekuev LR1.csproj.CoreCompileInputs.cache
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\bin\Debug\[VaAP] Pochekuev LR1.exe.config
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\bin\Debug\[VaAP] Pochekuev LR1.exe
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\bin\Debug\[VaAP] Pochekuev LR1.pdb
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\obj\Debug\[VaAP] Pochekuev LR1.exe
+C:\Users\study\source\repos\[VaAP] Pochekuev LR1\[VaAP] Pochekuev LR1\obj\Debug\[VaAP] Pochekuev LR1.pdb
